@@ -1,0 +1,8 @@
+1. Bild
+2. Environment
+3. Test date
+4. Tester
+5. Test type
+   checking
+   result
+
